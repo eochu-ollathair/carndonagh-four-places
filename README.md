@@ -13,4 +13,4 @@ The positions come from [Discover Alone's two-page Carndonagh field sheet](https
 
 Open [`places.csv`](places.csv) in a spreadsheet or map program using `latitude` and `longitude` as decimal degrees. The dots show recorded positions, **not** a walking route, entrance or permission to enter. Access to St Patrick's Bed is unconfirmed, and the stones noted in its record had already been removed before that survey. Check current access before visiting any site.
 
-Prepared by Discover Alone from its published Carndonagh field sheet. The four rows are deliberately small enough to inspect by hand.
+Prepared by Rickie Doherty for Discover Alone from its published Carndonagh field sheet. The four rows are deliberately small enough to inspect by hand.
